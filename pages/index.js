@@ -9,7 +9,10 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main></main>
+      <main>
+        <h2 className="text-2xl mt-10">Upgrade your web development today</h2>
+        <h3>Learn web dev today !</h3>
+      </main>
     </div>
   );
 }
